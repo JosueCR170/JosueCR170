@@ -1,8 +1,23 @@
-## Hey 👋, I'm Josué Solórzano!  
- 
-I'm a Systems engineer specializing in web application and API development, with experience in backend, frontend, and e-commerce platforms. Focused on creating scalable and efficient solutions, combining analytical thinking, continuous learning, and a commitment to software quality.  
-  
+## Hey 👋, I'm Josué Solórzano!
+
+<img align="right" width="300" src="img1.jpg"/>
+
+I'm a Systems Engineer specialized in web application and API development, with experience in backend, frontend, and e-commerce platforms. I enjoy building scalable solutions, learning new technologies, and creating software that solves real-world problems.
+
+<br>
+
+🌱 I’m currently learning ...
+
+- Advanced Backend Architectures  
+- Machine Learning
+
+<br>
+
+💬 Talk to me about software development, APIs, or technology in general.
+<br clear="right"/>
 <br/>  
+
+
 
 ## Contact Me
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/josue-so/" target="_blank">
