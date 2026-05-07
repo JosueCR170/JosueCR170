@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Josué Solórzano!
 
+
 <img align="right" width="300" src="img1.jpg"/>
 
 I'm a Systems Engineer specialized in web application and API development, with experience in backend, frontend, and e-commerce platforms. I enjoy building scalable solutions, learning new technologies, and creating software that solves real-world problems.
@@ -158,7 +159,7 @@ I'm a Systems Engineer specialized in web application and API development, with 
 
 ## Github Stats
 
-![Profile views counter](https://komarev.com/ghpvc/?username=JosueCR170&style=flat-square) [![GitHub followers](https://img.shields.io/github/followers/JosueCR170.svg?style=social&label=Followers)](https://github.com/JosueCR170?tab=followers) ![GitHub stars](https://img.shields.io/github/stars/JosueCR170.svg?style=social&label=stars)
+![Profile views counter](https://komarev.com/ghpvc/?username=JosueCR170&style=flat-square&color=orange) [![GitHub followers](https://img.shields.io/github/followers/JosueCR170.svg?style=social&label=Followers)](https://github.com/JosueCR170?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/JosueCR170.svg?style=social&label=stars)](https://github.com/JosueCR170?tab=repositories&sort=stargazers)
 
 ## ✨ Featured Projects
 
