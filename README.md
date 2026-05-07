@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Josué Solórzano!
 
 
-<img align="right" width="300" src="img1.jpg"/>
+<img align="right" width="300" src="img1_rounded.png"/>
 
 I'm a Systems Engineer specialized in web application and API development, with experience in backend, frontend, and e-commerce platforms. I enjoy building scalable solutions, learning new technologies, and creating software that solves real-world problems.
 
