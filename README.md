@@ -20,7 +20,7 @@ I'm a Systems Engineer specialized in web application and API development, with 
 
 
 ## Contact Me
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josue-so/" target="_blank">
+<a href="https://linkedin.com/in/josue-so/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a target="_blank" href="mailto:josolorzano4@gmail.com"
@@ -84,17 +84,10 @@ I'm a Systems Engineer specialized in web application and API development, with 
 </a>
 
 
-<a href="https://www.apachefriends.org/" target="_blank">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="50" />
-</a>
-
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="50" />
 </a>
 
-<a href="https://sass-lang.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="50" />
-</a>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="50" />
@@ -132,14 +125,6 @@ I'm a Systems Engineer specialized in web application and API development, with 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="50" />
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="50" />
-</a>
-
-<a href="https://mui.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="50" />
-</a>
-
 <a href="https://www.java.com/" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="50" />
 </a>
@@ -171,9 +156,41 @@ I'm a Systems Engineer specialized in web application and API development, with 
 <br/>  
 
 
-## Github Stats  
- 
+## Github Stats
 
-![Profile views counter](https://komarev.com/ghpvc/?username=JosueCR170&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=JosueCR170&style=flat-square) [![GitHub followers](https://img.shields.io/github/followers/JosueCR170.svg?style=social&label=Followers)](https://github.com/JosueCR170?tab=followers) ![GitHub stars](https://img.shields.io/github/stars/JosueCR170.svg?style=social&label=stars)
 
+## ✨ Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/JosueCR170/REPO1">
+        <img src="URL_SCREENSHOT_1" width="100%" alt="Project 1"/>
+      </a>
+      <br/>
+      <a href="https://github.com/JosueCR170/REPO1">
+        <img src="https://img.shields.io/badge/GITHUB%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/JosueCR170/REPO2">
+        <img src="URL_SCREENSHOT_2" width="100%" alt="Project 2"/>
+      </a>
+      <br/>
+      <a href="https://github.com/JosueCR170/REPO2">
+        <img src="https://img.shields.io/badge/GITHUB%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/JosueCR170/REPO3">
+        <img src="URL_SCREENSHOT_3" width="100%" alt="Project 3"/>
+      </a>
+      <br/>
+      <a href="https://github.com/JosueCR170/REPO3">
+        <img src="https://img.shields.io/badge/GITHUB%20REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
   
