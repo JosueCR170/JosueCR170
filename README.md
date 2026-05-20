@@ -10,7 +10,7 @@ I'm a Systems Engineer specialized in web application and API development, with 
 🌱 I’m currently learning ...
 
 - Advanced Backend Architectures  
-- Machine Learning
+
 
 <br>
 
